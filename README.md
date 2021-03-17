@@ -1,2 +1,2 @@
 # C-language
-basic c codes
+basic C codes
